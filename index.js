@@ -8,6 +8,8 @@ module.exports = {
   InternalError: 'internal error, contact us',
   InvalidAppKeyError: 'invalid appKey',
   InvalidAppSecretError: 'invalid appSecret',
+  InvalidApiKeyError: 'invalid apiKey',
+  InvalidApiSecretError: 'invalid apiSecret',
   InvalidClientKeyError: 'invalid clientKey',
   InvalidClientSecretError: 'invalid clientSecret',
   InvalidPasswordResetCodeError: 'invalid password reset code',
