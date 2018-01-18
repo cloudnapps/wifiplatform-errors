@@ -25,6 +25,7 @@ module.exports = {
 
   AdminError: 'need admin',
   CameraIdHadExist: 'camera id had exist',
+  CameraOffLine: 'camera off line',
   CanNotDeleteSelf: 'cant not delete self',
   FailedToImportError: 'failed to import error',
   FailedToQueuePoiImportJobError: 'failed to queue poi import job error',
@@ -33,6 +34,8 @@ module.exports = {
   FloorNotExist: 'floor not exist',
   FloorPlanMarkersNotExist: 'floor plan markers not exist',
   NeedOrganizationIdError: 'need organization id',
+  NoFaceApiFound: 'no face api found',
+  NoFaceDetectFound: 'no face detect found',
   NoPermissionsStoreFoundError: 'no permissions store found',
   NoPoiIdFound: 'no poiId found',
   NoStaFound: 'no sta found',
