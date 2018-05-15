@@ -42,6 +42,7 @@ module.exports = {
   NoStoreCamera: 'no store camera',
   NoStoreIdFound: 'no storeId found',
   NoStoreFoundError: 'no store found',
+  NoUserTagRemainingAmount: 'no user tag remaining amount',
   OrganizationNotFoundError: 'organization not found',
   PhysicalIdHadExist: 'physical had exist',
   RequireDataFileError: 'require data file error',
